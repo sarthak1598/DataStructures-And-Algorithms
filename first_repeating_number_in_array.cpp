@@ -1,6 +1,7 @@
 
 
 // program to return a first repeating element in an integer array
+// code is written considering various test cases provided by the user 
 
 #include <iostream>
 using namespace std;
