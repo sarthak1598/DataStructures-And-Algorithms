@@ -29,7 +29,7 @@ int main() {
 	                {
 	                     for(int m=j+1;m<=n-1;m++)
 	                         {
-	                               if(arr[j]=arr[m])
+	                               if(arr[j]==arr[m])
 	                                  {
 	                                      f=1;
 	                                      cout<<j<<endl;
@@ -45,3 +45,5 @@ int main() {
 	   } 
 	return 0;
 }
+
+// TIME COMPLEXITY OF THE CODE :::----- O(N^2) bigoh-nsquare ///not so efficient approach;/
