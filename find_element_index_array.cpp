@@ -1,5 +1,5 @@
 
-// c++ program to find the 
+// c++ program to find the index of element in an array including the various test cases...
 #include<iostream>
 using namespace std;
 
