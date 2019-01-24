@@ -1,4 +1,4 @@
-// comment :: 
+// comment :: Rearrange an array in O(1) extra spaces. 
 
 
 #include<iostream>
