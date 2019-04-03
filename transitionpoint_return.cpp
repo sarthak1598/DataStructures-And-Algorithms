@@ -15,12 +15,12 @@ int main()
 	{
 		int n;
 		cin>>n;
-		int a[n],i;
+		int arr[n],i;
 		for(i=0;i<n;i++)
 		{
 			cin>>a[i];
 		}
-		cout<<transitionPoint(a,n)<<endl;
+		cout<<transitionPoint(a,n);<<endl;
 	}
 	return 0;
 }
