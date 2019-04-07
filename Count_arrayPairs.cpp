@@ -1,7 +1,7 @@
 // c++ code to count the total pairs in an array of integers satisfying the given condition in the if block of the code 
 // running for various test cases inputted by the user 
 
-
+// condition to be fulfilled is ==> i*a[i] > j*a[j] .../
 #include<iostream>
 using namespace std ;
 
